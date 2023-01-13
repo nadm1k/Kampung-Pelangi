@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Nama  : Muhammad Zaidhan Irfansyah 
+Kelas : IK-2B
+NIM   : 3.34.21.1.16
+
+![Screenshot_20230114_122535](https://user-images.githubusercontent.com/117591399/212382121-9d215f7c-477e-43a6-97af-1fb028b7cb33.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
